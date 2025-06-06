@@ -124,7 +124,8 @@ FORK AND STAR MY REPO FAM
   <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
 </div>
 
-## 🪀  SUPPORT CHANNEL
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=JEEPERS+CREEPER+XMD;SUPPORT+CHANNEL"alt="Animated
 
 <div align="center">
   <a href="https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g">
